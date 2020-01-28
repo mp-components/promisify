@@ -1,0 +1,25 @@
+{
+  "name": "@mp-components/promisify",
+  "version": "1.0.0",
+  "description": "Make WeChat Mini Program's API Promisify",
+  "keywords": [
+    "wechat",
+    "wechat-mini-program",
+    "promisify",
+    "promise"
+  ],
+  "author": {
+    "name": "pengtikui",
+    "url": "https://github.com/pengtikui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mp-components/promisify"
+  },
+  "bugs": {
+    "url": "https://github.com/mp-components/promisify/issues"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "miniprogram": "lib"
+}
